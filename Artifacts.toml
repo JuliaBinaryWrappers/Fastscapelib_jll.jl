@@ -1,0 +1,459 @@
+[[Fastscapelib]]
+arch = "aarch64"
+git-tree-sha1 = "8d44b70ba8eb55031459acb3a7091b498987ec08"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Fastscapelib.download]]
+    sha256 = "6b799c949a9d6665b1d9fe7559cbffab13658ddb6ecd4f9ed368bcce83093621"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[Fastscapelib]]
+arch = "aarch64"
+git-tree-sha1 = "1e173d4a203ecc6341242c6ca5e1044509df9ee0"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "7680f88803f6a526f31ee2f5b7347cac9399db23cf46787b31e835b17b575ba5"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[Fastscapelib]]
+arch = "aarch64"
+git-tree-sha1 = "787225dd0f2b1743737484f634c477cecff6f874"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "9eb3daffab5c8e12c76016915a9c4f8440978ad0baf259a02a33f3712c02fe38"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "aarch64"
+git-tree-sha1 = "6efa27438d8616ddb0baae72b08b078105f4f2eb"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "23c1dcd8e0df8be4c6be69f6c22060ddea97f41dcbdbc9e4f182b1fe3863315d"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[Fastscapelib]]
+arch = "aarch64"
+git-tree-sha1 = "6c4f1fe89bd63b214990da185eb3b2b638b4ef41"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "a9bc9fc7704c6687d4d6e05c6fec15386947fd5073766e481304a68dd20ceba5"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.aarch64-linux-musl-libgfortran3.tar.gz"
+[[Fastscapelib]]
+arch = "aarch64"
+git-tree-sha1 = "5138473f81ba19ce46e2369f2f2c07668fbdf7ba"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "06129d983fc0be2449bcf3363851a64280b246199a3bd48ef9c6b5259bc7591d"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.aarch64-linux-musl-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "aarch64"
+git-tree-sha1 = "291e2a404055ffe15d4e2799813d7e10d8d93a55"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "bb6496d1055557f531cb9df8030aaaf3abfda68ed86c69f2df1836a4bf38feaa"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.aarch64-linux-musl-libgfortran5.tar.gz"
+[[Fastscapelib]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6d6a8b84e590c1821bffb4dac0d49d92fd6db9f8"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "888f33bd00f48622b044818678d48b4d5975ce9efde1554c10500ed79cfa3611"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Fastscapelib]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "09afb2b58612615e2855dd96ef75691e5bd5b519"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "60913d61cbd4527e3f2fef85d3a1f4bd5f8f71800fc63c667d85e52425441ea4"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "89e4e2c9027919d9643686f8df87d1dba3bbc479"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "19654c2ab998516bd375954361679e92c3a6b82787de29a2fac701f440335e07"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Fastscapelib]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "218e97aae22c13c09370bcaafe0fe2898f97ea08"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "11c717f454f6c402d13a32be39319f5914619102d8d5f3ed2ec523a446762fad"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[Fastscapelib]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "11a8a1e9cd4de8bbef444a1f05293c4894036901"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "d6579cfe7a181b05ec2abe06accbd690ba9b08852c05e4e7ddb4b8b1338fe57d"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d80b233de7d6de119f762380d52fd5ec58d23452"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "db682370481bec1ce1dac08904e36bf7554998d9d20df4c7b788c326ced5272b"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[Fastscapelib]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9f157fd2fcf9df313c9e5d1c0c31166ace1d4939"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "a83a92ab41d1a6a68e16cfdfb079e58f00a708ed78ff37cdb6def9e0a1d68636"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Fastscapelib]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d737897225e2452a217e60ae71ba0a4aea23da43"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "c5923d690f498b4465ffdb4736d9016f06468172bbbbc8c16ccf89c4e72dd785"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cad06b0104c44ce5a32e7795d02c9bc32b193b1b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "2a2b3e9d169e14648453ae9cf3c084e282dbe839189e6151b03d3c7c12b8125e"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Fastscapelib]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "67e72fd0ef6c4f8798496b414783dd23b12f2ea3"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "68e647b38a80d0ee794a5f072724e45ab848e126832df142ba0804d597c56072"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[Fastscapelib]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d4bb7f8cd692c6a42ba099ce3fab9db164f9ffae"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "e0b052af67ab88873c40c1dac43917f76790834681e4c95c34e90f0ef47159ef"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3e7eb8505e127612d6e06ecb524dd024e9ba1fa1"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "79328fc33bf3c583daae74dbe7fbe8733c4e6596527eb992881f9cb8b70087ee"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[Fastscapelib]]
+arch = "i686"
+git-tree-sha1 = "0baf2af4d2a74b99f4f6f4478d83d55ee7c0147c"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "4b9b09b6e5c6bd09f17294ed4884821ffeb7cd332d16acddf6ae80c397bfeb7d"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.i686-linux-gnu-libgfortran3.tar.gz"
+[[Fastscapelib]]
+arch = "i686"
+git-tree-sha1 = "a3841d2e86f46e94649dcec900192edde6d5d83d"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "cce79abccf94ecfbd7a582f34e9355bd870af5b14576a5f86dcdf6b98897a1ae"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.i686-linux-gnu-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "i686"
+git-tree-sha1 = "a50b4d86fa97bf81e99f1fe5180c011cc9f4a800"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "f5cbba30c70285a8dffbc58da7db75547af2f656873a9ee0ac891a6a25bb3db2"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.i686-linux-gnu-libgfortran5.tar.gz"
+[[Fastscapelib]]
+arch = "i686"
+git-tree-sha1 = "c323b01bcb8eba596c30c44c4c0f25910cdea5b4"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "537834a770ddb5b87e1eda5e612d4685b9f30bca872766bb72fd878b78f12b8e"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.i686-linux-musl-libgfortran3.tar.gz"
+[[Fastscapelib]]
+arch = "i686"
+git-tree-sha1 = "c1a4369d85beff44dc81e98369c188fed75e550f"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "a8ada84500b2109b290d2ff8179b1cc9b36c85ef20283ee71901f4f98076a5fa"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.i686-linux-musl-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "i686"
+git-tree-sha1 = "1230e528e4689c8b6d05ef67e216f30a76822b77"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "af9c40fa79c3d7d4fc761560288e7292c18e28f9b57db7fc8868bec9ac223403"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.i686-linux-musl-libgfortran5.tar.gz"
+[[Fastscapelib]]
+arch = "i686"
+git-tree-sha1 = "2bdb804a623a7263313e3feaab9d394adebe4198"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[Fastscapelib.download]]
+    sha256 = "dbe8dd86dcc5b0005442983110b85dbe57fd915930ead3fb95cc8466c6dfe7b9"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.i686-w64-mingw32-libgfortran3.tar.gz"
+[[Fastscapelib]]
+arch = "i686"
+git-tree-sha1 = "029d6c8e5a0e22786db559d3c41716a3354eabfc"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[Fastscapelib.download]]
+    sha256 = "0477a7dd2a4ce0e2dc98ad87bd0fa738ea4f58d479f7afccbfd3ffd6b3b77004"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.i686-w64-mingw32-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "i686"
+git-tree-sha1 = "afcf1a46976a1141b7cb42e7fbe5c03eb009b4ff"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[Fastscapelib.download]]
+    sha256 = "61855191bf558ef44b1887cddf9ae513eb3045e8eb7851d1f227d9db8fd4c446"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.i686-w64-mingw32-libgfortran5.tar.gz"
+[[Fastscapelib]]
+arch = "powerpc64le"
+git-tree-sha1 = "50f35f2cae84a7aa2d7d3a7c37fc5ce2f34e6f04"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "1d749f1b7633ef56dfcd8f77cda95ff1c7e77db64e790422158fc0eee735223d"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[Fastscapelib]]
+arch = "powerpc64le"
+git-tree-sha1 = "a334679eeeeefa2ab26dde23e20eadb9699aec93"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "340fead3cc74889a3c2654317fee4c8741265a64591eadf9513a3208e724881d"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "powerpc64le"
+git-tree-sha1 = "2a969c57b638470fd321a6ebc9a734a139d1b403"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "6daffc4f51768dabdc7b5101387af5a9aa181baa7e036a8e0d8b18e9b5749d0a"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[Fastscapelib]]
+arch = "x86_64"
+git-tree-sha1 = "aa7799aa0f933ed34a3ff9f884f6051608f4ce25"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[Fastscapelib.download]]
+    sha256 = "ab5afd1363d401a297196b00132db14a5b5ce13512c0ef46ffc59d45b5511d3b"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[Fastscapelib]]
+arch = "x86_64"
+git-tree-sha1 = "a151b28112ea113e3004aeeeceb72f6e4c37846a"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[Fastscapelib.download]]
+    sha256 = "93d1d18eed572224486a2432dcea75470343197b52f3762bd8e7865f9e2df95b"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "x86_64"
+git-tree-sha1 = "b0ae6434a84fea807b13d84a95cda942372d8daa"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Fastscapelib.download]]
+    sha256 = "f624d17fdefd010ba0543015c92082bd6392ec878fba690f4ed03121a4593e08"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[Fastscapelib]]
+arch = "x86_64"
+git-tree-sha1 = "224672d6ae4de342b21cd649883ff3cc56e36b4b"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "9f519db161f50726736af07a9ca2ca5a2133d4f48970f03ff8c0dcc7e365aeb7"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[Fastscapelib]]
+arch = "x86_64"
+git-tree-sha1 = "59bd551ead199e1ff50f57a54a696c87344bd00a"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "d6f368f5b2101518f5967fe78efc18632f0dc273c65e45cc3ef6bb59445940ab"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "x86_64"
+git-tree-sha1 = "5bfc673e69010f9cfd822b56dd6de727e43eacca"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "2d7c502693fdebb325077b00aee6cbf402285e5264d28de4d9b774ef1eb71ded"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[Fastscapelib]]
+arch = "x86_64"
+git-tree-sha1 = "e1a846c627c0789b35cb0ac0750928440a0acd13"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "ac7c3b96143236957a86cbc9b4d5edef582db91bbf4a9f272c3567de663e8237"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-linux-musl-libgfortran3.tar.gz"
+[[Fastscapelib]]
+arch = "x86_64"
+git-tree-sha1 = "83970654ca1033231aee88538f3a5690596c6d21"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "7b9c3bcca861d3fd2b747f3ac3b2ff0a7cd4f84f4de28b2e90cf930e02bf1da6"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-linux-musl-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "x86_64"
+git-tree-sha1 = "fbedf11fb5ab6ec0860e85a125c71a3e453edc72"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Fastscapelib.download]]
+    sha256 = "b62e4a161b91eb615fab426b1b5394a77cccc82506b8a489e57026348e9af9bc"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-linux-musl-libgfortran5.tar.gz"
+[[Fastscapelib]]
+arch = "x86_64"
+git-tree-sha1 = "71ac0edb9634d83b0dc16edd4af0fbeed512c8d2"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[Fastscapelib.download]]
+    sha256 = "2e4665fd1bf24c4eb76e1cb57852ceb6a7bcba4f91d38a0531d9cd62023e23c2"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[Fastscapelib]]
+arch = "x86_64"
+git-tree-sha1 = "523d4aaef17663c97026f5091adeb36a4e8fe7e4"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[Fastscapelib.download]]
+    sha256 = "de4573529010fb148b9af312fdaa812b8f53ae5d13b34ebe12134edf0152e680"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "x86_64"
+git-tree-sha1 = "919188a4497212ce0bca112c6a044e2ead361e5e"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[Fastscapelib.download]]
+    sha256 = "21211328f9d9eb39d3db3bb4d1e86724bdf22772821f19f5059d4f8835e3e811"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[Fastscapelib]]
+arch = "x86_64"
+git-tree-sha1 = "593d539542e81759663608203884b127caf608ce"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[Fastscapelib.download]]
+    sha256 = "bac811cb0113511bf02e32b5736122478330e658137cfbbda21e0570fcb7c1ed"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[Fastscapelib]]
+arch = "x86_64"
+git-tree-sha1 = "6a454f790339678f6640b8585bd7a8c91651d527"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[Fastscapelib.download]]
+    sha256 = "9b43c4759ec009b5c164bc32367184ccd5f30ba9774f4fe7b1d0ca45a1452d65"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "x86_64"
+git-tree-sha1 = "42f29da9ab3ee8ee21897dfd6dc00e9dfc5e7477"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[Fastscapelib.download]]
+    sha256 = "98a10a6205ce1c2e302c253013a175f4c7e37810b4e190817b92cb2bcda329a4"
+    url = "https://github.com/JuliaBinaryWrappers/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-w64-mingw32-libgfortran5.tar.gz"
